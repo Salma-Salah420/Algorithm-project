@@ -1,5 +1,6 @@
 🎯 Project: Algorithms Implementation (Non-Recursive & Recursive)
 ---------------------------------
+![image](https://github.com/Salma-Salah420/Algorithm-project/blob/ea6a6036685f87ee147658d6589687cbdb5f9593/computer-algorithm-science-problem-solving-process-with-programming-GD97BB.jpg)
 
 This repository contains --two algorithmic tasks --implemented in Python:
 
